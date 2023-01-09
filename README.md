@@ -1,2 +1,2 @@
-# ml-api-middleware
+# API Middleware
 Django Middleware for ML APIs
